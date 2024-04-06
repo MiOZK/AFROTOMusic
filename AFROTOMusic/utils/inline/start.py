@@ -12,7 +12,7 @@ def start_panel(_):
         ],
          [InlineKeyboardButton(text=_["S_B_4"], callback_data="zzzback")],
         [
-            InlineKeyboardButton(text="رمضان كريم", url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text=" مطور السورس", url=config.SUPPORT_CHANNEL),
             InlineKeyboardButton(text="قناة السورس", url=f"https://t.me/FFFH0"),
         ],
         [
